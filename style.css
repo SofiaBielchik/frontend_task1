@@ -1,0 +1,14 @@
+li.active {
+    background-color: blue;
+    color: white;
+}
+
+li.inactive {
+    background-color: green;
+    color: yellow;
+}
+
+button {
+    margin: 5px;
+}
+
